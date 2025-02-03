@@ -2,6 +2,7 @@
 #Autor: @waloleitor
 #Fecha: 03/02/2025
 #Descripción: Calculadora básica para novatos
+#Licencia: MIT
 
 import funcion_raizcuadrada as frc, funcion_porciento as fpc, funcion_suma as fs, funcion_resta as fr
 import funcion_multiplicacion as fm, funcion_division as fd
